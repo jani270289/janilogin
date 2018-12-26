@@ -2,8 +2,7 @@
 this is for git hooks  of mahalogin
 
 web hooks call jenkins
-
-hiiiii
+hi
 
 
 # mahalogin
