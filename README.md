@@ -3,8 +3,7 @@ this is for git hooks  of mahalogin
 
 web hooks call jenkins
 
-tom & Jerry
-hi..
+tommy
 
 # mahalogin
 # mahalogin
